@@ -11,6 +11,6 @@ package com.mycompany.github;
 public class Github {
 
     public static void main(String[] args) {
-
+string name;
     }
 }
